@@ -18,5 +18,6 @@ def speak_to_grandma(phrase)
   elsif phrase == 'WHAT DID YOU EAT TODAY?'
     "NO, NOT SINCE 1938!"
  elsif phrase == 'WHAT DID YOU EAT TODAY?'
+ elsif phrase == "I LOVE YOU GRANDMA!"
 end
 end
